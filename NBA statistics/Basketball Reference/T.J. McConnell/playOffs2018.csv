@@ -1,0 +1,3 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2018-04-14,26-020,PHI,MIA,27,0,6:57,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,1,2,2.3,-7
+1,2,2,2018-04-16,26-022,PHI,MIA,-10,0,6:23,0,1,.000,0,0,,2,2,1.000,1,0,1,1,0,0,0,1,2,2.3,-6

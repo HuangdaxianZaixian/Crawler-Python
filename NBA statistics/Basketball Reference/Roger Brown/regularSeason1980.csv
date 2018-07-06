@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,229,1,1979-10-14,29-233,CHI,PHO,-10,,,0,,,0,,,0,0,,,,,,,,,,0,,
+1,230,2,1979-11-14,29-264,CHI,WSB,-13,,,0,,,0,,,0,0,,,,,,,,,,0,,
+2,231,3,1979-11-20,29-270,CHI,DEN,-33,,,0,,,0,,,0,0,,,,,,,,,,0,,
+3,232,4,1979-12-01,29-281,CHI,PHO,-13,,,1,,,0,,,0,0,,,,,,,,,,2,,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1996-04-26,22-045,PHO,SAS,-22,0,10:00,2,3,.667,0,0,,1,2,.500,1,0,1,1,2,1,1,3,5,5.2,
+1,2,2,1996-05-01,22-050,PHO,SAS,1,0,6:00,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.0,
+2,3,3,1996-05-03,22-052,PHO,SAS,-18,0,20:00,6,9,.667,2,3,.667,3,3,1.000,1,3,4,3,0,0,3,3,17,12.6,

@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,69,1,1973-03-30,32-051,CHI,LAL,-3,,6:00,2,4,.500,,,,1,2,.500,,,1,1,,,,2,5,,
+1,70,2,1973-04-01,32-053,CHI,LAL,-15,,4:00,0,0,,,,,0,0,,,,0,0,,,,0,0,,
+2,71,3,1973-04-08,32-060,CHI,LAL,4,,1:00,0,0,,,,,0,0,,,,0,0,,,,1,0,,
+3,72,4,1973-04-10,32-062,CHI,LAL,-21,,3:00,0,2,.000,,,,0,0,,,,0,1,,,,0,0,,

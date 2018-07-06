@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1994-05-01,23-168,NJN,NYK,-9,0,6:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,
+1,2,2,1994-05-04,23-171,NJN,NYK,1,0,5:00,0,2,.000,0,2,.000,0,0,,0,0,0,2,0,0,0,0,0,0.0,
+2,3,3,1994-05-06,23-173,NJN,NYK,-10,0,7:00,3,4,.750,1,2,.500,2,2,1.000,0,0,0,1,2,0,4,0,9,6.1,

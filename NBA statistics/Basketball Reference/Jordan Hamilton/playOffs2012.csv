@@ -1,0 +1,3 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2012-04-29,21-206,DEN,LAL,-15,0,1:32,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+2
+1,2,2,2012-05-10,21-217,DEN,LAL,17,0,3:37,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,1,1,2,0.6,-5

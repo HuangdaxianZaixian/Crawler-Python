@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,43,1,1979-04-10,30-116,DEN,LAL,5,,,7,,,,,,0,0,,,,,,,,,,14,,
+1,44,2,1979-04-13,30-119,DEN,LAL,-12,,,6,,,,,,5,8,.625,,,,,,,,,17,,
+2,45,3,1979-04-15,30-121,DEN,LAL,-1,,,7,,,,,,3,6,.500,,,,,,,,,17,,

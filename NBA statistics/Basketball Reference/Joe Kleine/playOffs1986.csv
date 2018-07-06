@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1986-04-17,24-103,SAC,HOU,-20,0,10:00,1,5,.200,0,0,,0,0,,2,3,5,0,0,0,0,2,2,0.4,
+1,2,2,1986-04-19,24-105,SAC,HOU,-8,0,19:00,2,4,.500,0,0,,3,4,.750,3,1,4,1,1,0,0,3,7,7.5,
+2,3,3,1986-04-22,24-108,SAC,HOU,-15,0,16:00,2,4,.500,0,0,,2,2,1.000,3,2,5,0,0,1,2,3,6,4.2,

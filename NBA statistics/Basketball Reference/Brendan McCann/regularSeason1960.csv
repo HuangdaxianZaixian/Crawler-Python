@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,38,1,1959-12-31,24-179,NYK,MNL,25,,,1,,,,,,0,0,,,,,,,,,0,2,,
+1,39,2,1960-01-02,24-181,NYK,CIN,8,,,0,,,,,,0,0,,,,1,,,,,2,0,,
+2,40,3,1960-01-05,24-184,NYK,DET,11,,,0,,,,,,0,0,,,,,,,,,0,0,,
+3,41,4,1960-01-06,24-185,NYK,CIN,-16,,,0,,,,,,3,3,1.000,,,2,,,,,0,3,,

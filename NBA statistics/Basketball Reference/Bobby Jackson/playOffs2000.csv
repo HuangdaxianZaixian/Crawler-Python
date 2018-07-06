@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,5,1,2000-04-23,27-041,MIN,POR,-3,0,5:00,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,0,2,1.3,
+1,6,2,2000-04-26,27-044,MIN,POR,-4,0,9:00,0,1,.000,0,1,.000,2,2,1.000,0,1,1,1,1,0,2,2,2,0.5,
+2,7,3,2000-05-02,27-050,MIN,POR,-8,0,16:00,3,5,.600,1,2,.500,4,4,1.000,0,3,3,3,1,1,0,2,11,12.6,

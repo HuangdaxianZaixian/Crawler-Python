@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2009-04-19,21-258,PHI,ORL,2,0,6:20,0,2,.000,0,0,,0,0,,0,2,2,0,0,0,0,1,0,-1.2,-5
+1,2,2,2009-04-22,21-261,PHI,ORL,-9,0,8:58,2,2,1.000,0,0,,1,2,.500,1,1,2,0,0,0,0,3,5,3.8,-5
+2,3,3,2009-04-30,21-269,PHI,ORL,-25,0,13:49,1,3,.333,0,0,,2,2,1.000,2,0,2,0,0,0,0,1,4,3.3,-11

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,10,1,1980-04-02,27-362,SAS,HOU,-10,,,2,,,0,,,0,0,,,,,,,,,,4,,
+1,11,2,1980-04-04,27-364,SAS,HOU,5,,,2,,,0,,,0,0,,,,,,,,,,4,,
+2,12,3,1980-04-06,28-000,SAS,HOU,-21,,,5,,,0,,,3,3,1.000,,,,,,,,,13,,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,28,1,1997-10-31,28-189,ATL,ORL,6,0,5:00,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,
+1,29,2,1997-11-01,28-190,ATL,TOR,5,0,9:00,1,1,1.000,0,0,,0,2,.000,0,0,0,1,0,0,0,0,2,1.6,
+2,30,3,1997-11-04,28-193,ATL,DET,11,0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,

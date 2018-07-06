@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,8,1,1995-04-27,30-309,ATL,IND,-8,0,10:00,0,2,.000,0,0,,0,0,,0,3,3,0,1,1,0,1,0,0.8,
+1,9,2,1995-04-29,30-311,ATL,IND,-8,0,11:00,0,1,.000,0,0,,2,2,1.000,0,2,2,0,0,1,0,3,2,1.4,
+2,10,3,1995-05-02,30-314,ATL,IND,-16,0,18:00,1,2,.500,0,0,,1,2,.500,1,7,8,2,1,0,0,5,3,4.8,

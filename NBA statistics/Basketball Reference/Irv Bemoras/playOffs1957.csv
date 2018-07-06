@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1957-03-31,26-133,STL,BOS,-20,,10:00,3,7,.429,,,,3,3,1.000,,,4,0,,,,2,9,,
+1,2,2,1957-04-06,26-139,STL,BOS,2,,1:00,0,0,,,,,0,0,,,,0,0,,,,1,0,,
+2,3,3,1957-04-07,26-140,STL,BOS,-5,,9:00,0,1,.000,,,,0,0,,,,2,0,,,,1,0,,

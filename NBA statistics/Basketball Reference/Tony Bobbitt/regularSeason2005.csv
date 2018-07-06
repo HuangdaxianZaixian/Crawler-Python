@@ -1,0 +1,3 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2005-01-25,25-095,LAL,SEA,-11,0,6:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-1
+1,2,2,2005-01-26,25-096,LAL,LAC,-16,0,6:00,2,4,.500,1,2,.500,0,0,,0,3,3,0,0,0,0,0,5,3.9,0

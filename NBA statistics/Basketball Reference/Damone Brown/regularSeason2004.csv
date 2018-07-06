@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,23,1,2003-12-13,24-168,NJN,MEM,-47,0,14:00,0,6,.000,0,0,,1,2,.500,1,2,3,0,2,0,1,2,1,-2.1,-24
+1,24,2,2003-12-17,24-172,NJN,UTA,13,0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2,25,3,2003-12-19,24-174,NJN,WAS,10,0,1:00,1,4,.250,0,0,,0,0,,2,0,2,0,0,0,0,0,2,1.0,-3

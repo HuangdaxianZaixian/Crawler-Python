@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,103,1,2005-04-27,34-117,DEN,SAS,-28,0,4:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+1,104,2,2005-05-02,34-122,DEN,SAS,-11,0,3:00,0,0,,0,0,,3,3,1.000,0,0,0,0,0,0,0,0,3,3.0,+2
+2,105,3,2005-05-04,34-124,DEN,SAS,-10,0,2:00,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0

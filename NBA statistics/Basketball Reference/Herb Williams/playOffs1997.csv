@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,47,1,1997-04-24,39-067,NYK,CHH,10,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,
+1,48,2,1997-05-09,39-082,NYK,MIA,-4,0,3:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,
+2,49,3,1997-05-16,39-089,NYK,MIA,-5,0,19:00,2,5,.400,0,0,,0,0,,0,1,1,0,0,0,0,3,4,0.4,

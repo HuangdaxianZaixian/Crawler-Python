@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,26,1,2006-04-22,32-081,CHI,MIA,-5,0,3:23,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-4
+1,27,2,2006-04-27,32-086,CHI,MIA,19,0,8:06,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-0.1,0
+2,28,3,2006-05-02,32-091,CHI,MIA,-14,0,3:28,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-0.1,+3

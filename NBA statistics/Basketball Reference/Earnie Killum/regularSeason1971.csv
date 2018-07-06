@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1971-02-28,22-262,LAL,CLE,17,,,0,,,,,,0,0,,,,,,,,,,0,,
+1,2,2,1971-03-14,22-276,LAL,DET,10,,,0,,,,,,1,1,1.000,,,,,,,,,1,,
+2,3,3,1971-03-16,22-278,LAL,NYK,-33,,,0,,,,,,0,0,,,,,,,,,,0,,
+3,4,4,1971-03-17,22-279,LAL,BOS,-8,,,0,,,,,,0,0,,,,,,,,,,0,,

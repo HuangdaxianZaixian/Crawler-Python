@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,14,1,2001-04-22,29-196,ORL,MIL,-13,0,5:00,0,1,.000,0,0,,0,0,,1,1,2,0,0,1,1,0,0,0.0,+2
+1,15,2,2001-04-28,29-202,ORL,MIL,5,0,2:00,0,0,,0,0,,0,1,.000,0,0,0,0,0,0,0,1,0,-0.8,-5
+2,16,3,2001-05-01,29-205,ORL,MIL,-8,0,7:00,3,3,1.000,0,0,,1,2,.500,3,1,4,0,0,1,0,1,7,8.4,+7

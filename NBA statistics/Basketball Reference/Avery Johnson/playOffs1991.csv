@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,7,1,1991-04-25,26-031,SAS,GSW,9,0,7:00,0,1,.000,0,0,,0,0,,0,0,0,3,1,0,0,1,0,2.0,
+1,8,2,1991-04-27,26-033,SAS,GSW,-13,0,10:00,0,4,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,2,0,-2.9,
+2,9,3,1991-05-01,26-037,SAS,GSW,-3,0,2:00,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,

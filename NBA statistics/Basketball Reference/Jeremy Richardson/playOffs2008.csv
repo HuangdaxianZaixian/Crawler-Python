@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2008-04-20,24-069,ATL,BOS,-23,0,2:56,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,1,2,0.6,-2
+1,2,2,2008-04-30,24-079,ATL,BOS,-25,0,1:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2,3,3,2008-05-04,24-083,ATL,BOS,-34,0,1:36,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+2

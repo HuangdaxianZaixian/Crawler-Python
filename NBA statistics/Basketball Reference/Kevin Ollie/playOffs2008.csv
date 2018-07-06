@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,39,1,2008-04-25,35-120,PHI,DET,20,0,2:13,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2
+1,40,2,2008-04-29,35-124,PHI,DET,-17,0,2:24,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,0
+2,41,3,2008-05-01,35-126,PHI,DET,-23,0,14:08,1,4,.250,0,0,,2,2,1.000,0,0,0,3,1,0,0,1,4,4.3,+4

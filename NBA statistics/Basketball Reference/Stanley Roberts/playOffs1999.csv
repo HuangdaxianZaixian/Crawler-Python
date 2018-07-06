@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,7,1,1999-05-09,29-091,HOU,LAL,-1,0,7:00,0,2,.000,0,0,,0,0,,0,2,2,0,0,2,0,2,0,-0.2,
+1,8,2,1999-05-11,29-093,HOU,LAL,-12,0,11:00,0,4,.000,0,0,,1,2,.500,0,1,1,0,0,2,0,2,1,-1.3,
+2,9,3,1999-05-13,29-095,HOU,LAL,14,0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,7,1,1984-04-17,25-195,WSB,BOS,-8,0,5:00,2,5,.400,0,0,,0,0,,0,1,1,0,0,0,1,0,4,0.6,
+1,8,2,1984-04-19,25-197,WSB,BOS,-3,0,5:00,3,3,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,6,5.1,
+2,9,3,1984-04-21,25-199,WSB,BOS,3,0,7:00,2,4,.500,0,0,,0,0,,1,1,2,0,0,0,0,0,4,3.0,

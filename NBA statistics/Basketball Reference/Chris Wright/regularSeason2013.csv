@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,2,2013-03-15,23-131,DAL,CLE,10,0,0:41,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-2
+1,2,4,2013-03-18,23-134,DAL,ATL,14,0,2:49,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-5
+2,3,5,2013-03-20,23-136,DAL,BRK,-17,0,0:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1

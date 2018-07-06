@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,37,10,2016-11-15,23-022,CHI,POR,25,0,3:48,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2
+1,38,15,2016-11-25,23-032,CHI,PHI,16,0,3:35,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-7
+2,39,18,2016-12-03,23-040,CHI,DAL,-25,0,1:46,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5

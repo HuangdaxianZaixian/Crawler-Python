@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,39,1,1965-10-16,23-082,BAL,PHI,-32,,,0,0,,,,,2,2,1.000,,,0,1,,,,0,2,,
+1,40,2,1965-10-17,23-083,BAL,CIN,-20,,,0,1,.000,,,,0,0,,,,2,0,,,,0,0,,
+2,41,3,1965-10-20,23-086,BAL,STL,20,,5:00,2,5,.400,,,,1,2,.500,,,6,0,,,,1,5,,

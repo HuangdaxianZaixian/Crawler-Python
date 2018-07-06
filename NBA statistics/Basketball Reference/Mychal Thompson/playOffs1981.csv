@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,4,1,1981-04-01,26-061,POR,KCK,-1,,,8,,,0,,,2,3,.667,,,,,,,,,18,,
+1,5,2,1981-04-03,26-063,POR,KCK,5,,,15,,,0,,,10,12,.833,,,,,,,,,40,,
+2,6,3,1981-04-05,26-065,POR,KCK,-9,,,8,,,0,,,1,3,.333,,,,,,,,,17,,

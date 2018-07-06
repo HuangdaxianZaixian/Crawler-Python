@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,95,1,1981-04-01,33-350,LAL,HOU,-4,,,9,,,0,,,3,6,.500,,,,,,,,,21,,
+1,96,2,1981-04-03,33-352,LAL,HOU,5,,,10,,,0,,,7,10,.700,,,,,,,,,27,,
+2,97,3,1981-04-05,33-354,LAL,HOU,-3,,,11,,,0,,,10,12,.833,,,,,,,,,32,,

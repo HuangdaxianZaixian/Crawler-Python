@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,15,1,1978-04-16,29-064,SAS,WSB,11,,,0,,,,,,0,0,,,,,,,,,,0,,
+1,16,2,1978-04-18,29-066,SAS,WSB,-4,,,0,,,,,,0,0,,,,,,,,,,0,,
+2,17,3,1978-04-21,29-069,SAS,WSB,-13,,,1,,,,,,1,2,.500,,,,,,,,,3,,
+3,18,4,1978-04-28,29-076,SAS,WSB,-3,,,2,,,,,,0,0,,,,,,,,,,4,,

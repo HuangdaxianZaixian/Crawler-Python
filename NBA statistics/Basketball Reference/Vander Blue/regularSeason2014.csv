@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2014-01-22,21-189,BOS,WAS,2,0,4:13,1,2,.500,0,0,,0,2,.000,0,2,2,1,0,0,2,0,2,-0.5,+6
+1,2,2,2014-01-24,21-191,BOS,OKC,-18,0,7:21,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,+2
+2,3,4,2014-01-28,21-195,BOS,NYK,-26,0,3:06,1,2,.500,0,1,.000,0,1,.000,0,1,1,0,0,0,0,1,2,0.5,-2

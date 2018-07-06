@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,260,1,1977-11-30,25-202,SAS,WSB,-11,,,1,,,,,,0,0,,,,,,,,,,2,,
+1,261,2,1977-12-03,25-205,SAS,NOJ,15,,,1,,,,,,2,2,1.000,,,,,,,,,4,,
+2,262,3,1977-12-16,25-218,SAS,ATL,-16,,,0,,,,,,0,0,,,,,,,,,,0,,
+3,263,4,1977-12-30,25-232,SAS,CLE,21,,,0,,,,,,0,0,,,,,,,,,,0,,

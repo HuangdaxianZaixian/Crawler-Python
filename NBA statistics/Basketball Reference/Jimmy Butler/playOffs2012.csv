@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2012-05-04,22-233,CHI,PHI,-5,0,3:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-4
+1,2,2,2012-05-06,22-235,CHI,PHI,-7,0,0:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2,3,3,2012-05-10,22-239,CHI,PHI,-1,0,0:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0

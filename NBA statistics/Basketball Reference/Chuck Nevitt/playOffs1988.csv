@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,12,1,1988-05-14,28-336,DET,CHI,22,0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,
+1,13,2,1988-05-15,28-337,DET,CHI,19,0,1:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,
+2,14,3,1988-06-14,29-001,DET,LAL,25,0,1:00,1,2,.500,0,0,,0,0,,2,0,2,0,0,0,0,1,2,2.0,

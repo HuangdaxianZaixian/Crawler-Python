@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2007-04-25,32-047,GSW,DAL,-13,0,2:48,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+5
+1,2,2,2007-05-03,32-055,GSW,DAL,25,0,1:18,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0
+2,3,3,2007-05-11,32-063,GSW,UTA,20,0,1:42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4

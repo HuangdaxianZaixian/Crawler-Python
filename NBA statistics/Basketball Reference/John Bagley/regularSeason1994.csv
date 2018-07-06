@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,663,1,1993-11-27,33-218,ATL,PHI,32,0,5:00,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,
+1,664,2,1993-11-30,33-221,ATL,BOS,8,0,3:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,
+2,665,3,1993-12-03,33-224,ATL,HOU,22,0,5:00,0,1,.000,0,0,,2,2,1.000,0,1,1,2,0,0,0,1,2,2.6,

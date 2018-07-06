@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1985-10-29,22-334,SEA,HOU,-12,0,9:00,1,2,.500,0,0,,0,0,,2,0,2,1,0,0,1,1,2,1.7,
+1,2,2,1985-10-31,22-336,SEA,DEN,-17,0,4:00,0,1,.000,0,0,,1,4,.250,1,0,1,0,0,0,2,1,1,-2.6,
+2,3,3,1985-11-02,22-338,SEA,CHI,18,0,1:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,

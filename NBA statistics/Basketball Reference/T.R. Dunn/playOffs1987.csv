@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,52,1,1987-04-23,32-081,DEN,LAL,-33,0,9:00,1,4,.250,0,0,,0,0,,0,0,0,2,0,0,1,2,2,-0.8,
+1,53,2,1987-04-25,32-083,DEN,LAL,-12,0,4:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,
+2,54,3,1987-04-29,32-087,DEN,LAL,-37,0,9:00,0,0,,0,0,,0,0,,1,1,2,0,1,1,0,0,0,2.7,

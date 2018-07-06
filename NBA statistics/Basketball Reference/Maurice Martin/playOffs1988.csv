@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,4,1,1988-05-01,23-304,DEN,SEA,-20,0,4:00,1,2,.500,0,1,.000,2,2,1.000,0,0,0,0,0,0,1,1,4,1.6,
+1,5,2,1988-05-07,23-310,DEN,SEA,19,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,
+2,6,3,1988-05-15,23-318,DEN,DAL,-21,0,4:00,0,3,.000,0,0,,3,4,.750,0,1,1,0,0,1,0,0,3,1.5,

@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,3,1,1964-03-22,27-200,PHI,CIN,-25,,,3,6,.500,,,,2,4,.500,,,8,0,,,,,8,,
+1,4,2,1964-03-24,27-202,PHI,CIN,8,,,3,4,.750,,,,1,2,.500,,,5,1,,,,,7,,
+2,5,3,1964-03-25,27-203,PHI,CIN,-12,,,0,,,,,,2,2,1.000,,,,,,,,,2,,
+3,6,4,1964-03-28,27-206,PHI,CIN,9,,,3,,,,,,5,7,.714,,,,,,,,,11,,

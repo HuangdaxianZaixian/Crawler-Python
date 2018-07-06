@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,23,1,1991-04-25,31-050,HOU,LAL,-2,0,15:00,4,9,.444,0,0,,0,0,,0,1,1,3,0,1,2,0,8,4.4,
+1,24,2,1991-04-27,31-052,HOU,LAL,-11,0,17:00,2,10,.200,0,3,.000,0,0,,0,0,0,3,2,0,2,3,4,-1.3,
+2,25,3,1991-04-30,31-055,HOU,LAL,-4,0,9:00,2,5,.400,0,1,.000,0,0,,0,1,1,1,0,0,3,1,4,-1.1,

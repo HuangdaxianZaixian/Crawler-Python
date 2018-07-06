@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,884,1,2003-01-22,37-334,POR,ATL,2,0,4:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+1,885,2,2003-01-28,37-340,POR,DEN,6,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-4
+2,886,3,2003-01-29,37-341,POR,UTA,-24,0,6:00,0,1,.000,0,0,,0,0,,2,0,2,0,0,0,0,1,0,0.3,-9

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,252,1,1987-11-06,28-242,LAL,SEA,4,0,3:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,
+1,253,2,1987-11-08,28-244,LAL,HOU,9,0,2:00,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,
+2,254,3,1987-11-12,28-248,LAL,LAC,29,0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,

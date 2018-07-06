@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1996-04-25,23-031,CLE,NYK,-23,0,7:00,0,0,,0,0,,0,0,,0,1,1,2,0,0,2,0,0,-0.3,
+1,2,2,1996-04-27,23-033,CLE,NYK,-4,0,3:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,
+2,3,3,1996-05-01,23-037,CLE,NYK,-5,0,8:00,2,3,.667,0,0,,0,0,,0,0,0,1,1,0,2,3,4,1.2,

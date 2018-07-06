@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,4,1,1994-04-29,30-094,CLE,CHI,-8,0,13:00,3,3,1.000,0,0,,0,0,,1,1,2,3,0,0,1,3,6,6.0,
+1,5,2,1994-05-01,30-096,CLE,CHI,-9,0,33:00,5,13,.385,0,0,,6,6,1.000,4,1,5,1,2,0,0,3,16,13.5,
+2,6,3,1994-05-03,30-098,CLE,CHI,-3,1,43:00,2,9,.222,0,0,,0,0,,5,4,9,4,1,0,3,3,4,2.8,

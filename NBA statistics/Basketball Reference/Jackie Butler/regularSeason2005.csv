@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2005-03-21,20-011,NYK,SAS,13,0,1:00,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-1
+1,2,2,2005-03-23,20-013,NYK,BOS,25,0,2:00,2,2,1.000,0,0,,2,2,1.000,0,0,0,0,1,0,0,0,6,6.4,+3
+2,3,3,2005-04-05,20-026,NYK,IND,-18,0,2:00,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7,-1

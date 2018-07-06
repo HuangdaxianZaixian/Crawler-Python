@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,65,1,1982-10-29,26-139,SDC,PHO,-14,1,9:00,0,3,.000,0,0,,0,0,,,,1,0,0,0,0,,0,,
+1,66,2,1982-10-31,26-141,SDC,SEA,-18,0,1:00,0,1,.000,0,0,,2,2,1.000,0,0,0,1,,,0,0,2,,
+2,67,3,1982-11-03,26-144,SDC,PHI,-19,0,2:00,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,

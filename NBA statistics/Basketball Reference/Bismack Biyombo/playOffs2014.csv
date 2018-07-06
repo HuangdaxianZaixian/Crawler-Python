@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2014-04-20,21-235,CHA,MIA,-11,0,7:38,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,1,0,0.6,-8
+1,2,3,2014-04-26,21-241,CHA,MIA,-13,0,7:38,0,0,,0,0,,1,2,.500,0,1,1,0,0,2,0,1,1,1.9,+8
+2,3,4,2014-04-28,21-243,CHA,MIA,-11,1,33:00,3,5,.600,0,0,,1,4,.250,4,4,8,1,0,0,0,2,7,7.4,-5

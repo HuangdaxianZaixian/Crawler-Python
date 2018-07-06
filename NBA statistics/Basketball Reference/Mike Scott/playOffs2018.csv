@@ -1,0 +1,3 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,33,1,2018-04-14,29-272,WAS,TOR,-8,0,26:57,7,10,.700,0,0,,0,0,,2,1,3,0,0,0,2,2,14,8.7,+6
+1,34,2,2018-04-17,29-275,WAS,TOR,-11,0,27:19,7,10,.700,4,5,.800,2,2,1.000,0,4,4,1,0,0,0,2,20,16.9,+13

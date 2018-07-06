@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1995-11-03,24-325,BOS,MIL,-1,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,
+1,2,2,1995-11-04,24-326,BOS,CHI,-22,0,4:00,1,1,1.000,0,0,,0,2,.000,1,0,1,0,0,1,1,2,2,0.5,
+2,3,3,1995-11-18,24-340,BOS,MIL,6,0,2:00,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-0.8,

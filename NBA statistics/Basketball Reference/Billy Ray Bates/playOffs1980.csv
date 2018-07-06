@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1980-04-02,23-307,POR,SEA,-10,,,11,,,1,,,6,8,.750,,,,,,,,,29,,
+1,2,2,1980-04-04,23-309,POR,SEA,10,,,8,,,0,,,4,5,.800,,,,,,,,,20,,
+2,3,3,1980-04-06,23-311,POR,SEA,-17,,,12,,,1,,,1,1,1.000,,,,,,,,,26,,

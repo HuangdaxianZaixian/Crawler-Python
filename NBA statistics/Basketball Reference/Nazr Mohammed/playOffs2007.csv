@@ -1,0 +1,3 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,39,1,2007-05-15,29-252,DET,CHI,-16,0,4:28,1,1,1.000,0,0,,3,3,1.000,1,1,2,0,0,0,0,0,5,5.7,+7
+1,40,2,2007-06-02,29-270,DET,CLE,-16,0,1:16,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-2

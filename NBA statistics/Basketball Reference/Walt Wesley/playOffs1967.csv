@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1967-03-22,22-056,CIN,PHI,-21,,,0,2,.000,,,,0,0,,,,1,0,,,,1,0,,
+1,2,2,1967-03-24,22-058,CIN,PHI,-15,,,1,6,.167,,,,0,0,,,,7,0,,,,4,2,,
+2,3,3,1967-03-25,22-059,CIN,PHI,-18,,,1,2,.500,,,,0,0,,,,1,0,,,,2,2,,

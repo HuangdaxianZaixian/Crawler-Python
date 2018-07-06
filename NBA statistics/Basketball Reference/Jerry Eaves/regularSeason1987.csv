@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,166,1,1987-02-03,27-360,SAC,UTA,-6,0,10:00,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,4,0,-3.0,
+1,167,2,1987-02-04,27-361,SAC,LAL,-36,0,14:00,1,5,.200,0,0,,2,2,1.000,1,0,1,0,1,0,2,1,4,0.2,
+2,168,3,1987-02-10,28-002,SAC,LAL,-16,0,2:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,3,1,1995-04-28,27-146,CHH,CHI,-8,0,11:00,0,1,.000,0,1,.000,0,0,,2,0,2,1,0,0,0,1,0,1.0,
+1,4,2,1995-05-02,27-150,CHH,CHI,-23,0,6:00,0,3,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.8,
+2,5,3,1995-05-04,27-152,CHH,CHI,-1,0,6:00,0,3,.000,0,3,.000,0,0,,1,1,2,2,0,0,0,0,0,0.3,

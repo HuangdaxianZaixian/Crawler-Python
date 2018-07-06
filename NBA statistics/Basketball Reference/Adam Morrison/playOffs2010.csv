@@ -1,0 +1,3 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2010-04-24,25-279,LAL,OKC,-21,0,4:18,2,3,.667,0,1,.000,0,0,,1,1,2,0,0,0,0,0,4,3.7,+4
+1,2,2,2010-04-27,25-282,LAL,OKC,24,0,8:45,2,6,.333,0,1,.000,0,0,,1,2,3,1,0,0,0,2,4,1.8,-5

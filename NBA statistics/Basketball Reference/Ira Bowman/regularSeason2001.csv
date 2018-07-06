@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,12,1,2001-02-17,27-251,ATL,SEA,7,0,5:00,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-7
+1,13,2,2001-02-18,27-252,ATL,GSW,7,0,1:00,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,-1
+2,14,3,2001-02-20,27-254,ATL,SAC,-14,0,13:00,0,2,.000,0,0,,0,0,,1,1,2,5,0,0,0,0,0,3.1,+1

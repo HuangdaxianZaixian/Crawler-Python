@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1962-10-23,21-236,CHZ,STL,-1,,,0,,,,,,0,,,,,,0,,,,1,0,,
+1,2,2,1962-10-26,21-239,CHZ,SYR,-18,,,0,,,,,,0,0,,,,,0,,,,2,0,,
+2,3,3,1962-11-13,21-257,CHZ,LAL,-23,,,2,5,.400,,,,0,1,.000,,,6,0,,,,0,4,,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2005-11-30,23-325,PHO,IND,18,0,2:07,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,0
+1,2,2,2005-12-04,23-329,PHO,ATL,18,0,5:55,1,1,1.000,0,0,,0,0,,1,0,1,0,0,1,1,5,2,0.1,-12
+2,3,3,2005-12-06,23-331,PHO,POR,45,0,5:00,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,2,0,-2.2,+1

@@ -1,0 +1,3 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,804,1,2017-02-25,33-120,NOP,DAL,-13,0,25:17,2,3,.667,0,1,.000,2,2,1.000,0,0,0,4,1,0,2,4,6,4.9,-7
+1,805,3,2017-03-01,33-124,NOP,DET,23,0,7:48,0,0,,0,0,,0,0,,0,0,0,1,1,0,1,0,0,0.7,+1

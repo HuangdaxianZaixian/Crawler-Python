@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1992-04-24,26-177,MIA,CHI,-19,0,17:00,1,6,.167,0,0,,1,2,.500,1,1,2,3,0,0,1,0,3,0.9,
+1,2,2,1992-04-26,26-179,MIA,CHI,-30,0,26:00,3,6,.500,0,0,,2,2,1.000,0,3,3,3,2,0,2,3,8,6.8,
+2,3,3,1992-04-29,26-182,MIA,CHI,-5,0,12:00,1,1,1.000,0,0,,2,4,.500,0,2,2,1,0,0,2,0,4,2.2,

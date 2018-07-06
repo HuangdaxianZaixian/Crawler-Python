@@ -1,0 +1,6 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1949-11-01,28-025,SHE,ROC,-33,,,,,,,,,,1,,,,,,,,,,,,
+1,2,2,1949-11-03,28-027,SHE,BOS,15,,,1,,,,,,,,,,,,,,,,,2,,
+2,3,3,1949-11-16,28-040,SHE,WAT,3,,,1,,,,,,,,,,,,,,,,,2,,
+3,4,4,1949-11-17,28-041,SHE,WAT,2,,,1,,,,,,,,,,,,,,,,,2,,
+4,5,5,1949-11-26,28-050,SHE,INO,-26,,,,,,,,,1,1,1.000,,,,,,,,,1,,

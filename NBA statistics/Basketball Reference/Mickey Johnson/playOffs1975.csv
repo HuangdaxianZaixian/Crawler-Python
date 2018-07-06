@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1975-04-20,22-232,CHI,KCO,27,,2:00,1,1,1.000,,,,0,0,,0,0,0,0,,,,1,2,,
+1,2,2,1975-04-27,22-239,CHI,GSW,-18,,2:00,0,1,.000,,,,0,0,,0,0,0,0,,,,1,0,,
+2,3,3,1975-05-11,22-253,CHI,GSW,-14,0,1:00,0,1,.000,,,,0,0,,0,0,0,0,0,,,0,0,,

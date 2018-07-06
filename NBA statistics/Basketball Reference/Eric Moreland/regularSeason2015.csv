@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,15,2014-11-26,22-337,SAC,HOU,-13,0,0:34,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+1,2,17,2014-11-30,22-341,SAC,MEM,-12,0,1:14,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,0
+2,3,24,2014-12-13,22-354,SAC,DET,-5,0,0:17,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+3

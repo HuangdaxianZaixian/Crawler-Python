@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,17,1,2012-02-01,25-020,WAS,ORL,-6,0,0:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+1,18,2,2012-02-03,25-022,WAS,TOR,-17,0,1:02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+4
+2,19,3,2012-02-04,25-023,WAS,LAC,-26,0,1:11,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+4

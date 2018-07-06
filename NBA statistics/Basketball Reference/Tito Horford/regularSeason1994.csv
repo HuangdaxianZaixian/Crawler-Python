@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,61,1,1993-11-05,27-290,WSB,PHI,-12,0,6:00,0,0,,0,0,,0,0,,1,0,1,0,0,1,1,2,0,-0.4,
+1,62,2,1993-11-06,27-291,WSB,BOS,-12,0,9:00,0,1,.000,0,0,,0,0,,0,1,1,0,0,1,0,0,0,0.3,
+2,63,3,1993-11-10,27-295,WSB,NYK,-8,0,13:00,0,1,.000,0,0,,0,0,,0,1,1,0,1,1,0,1,0,0.9,

@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1953-03-26,24-148,NYK,BOS,-16,,,1,,,,,,,,,,,,,,,,1,2,,
+1,2,2,1953-03-28,24-150,NYK,BOS,19,,,1,,,,,,,1,,,,,,,,,1,2,,
+2,3,3,1953-03-29,24-151,NYK,BOS,7,,,1,,,,,,,,,,,,,,,,1,2,,
+3,4,4,1953-04-07,24-160,NYK,MNL,-15,,,0,1,.000,,,,0,0,,,,,,,,,0,0,,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,5,1,1982-05-14,27-105,LAL,SAS,10,,1:00,0,0,,0,0,,0,0,,0,0,0,0,,,,0,0,,
+1,6,2,1982-06-01,27-123,LAL,PHI,21,0,2:00,0,1,.000,0,0,,0,0,,0,0,0,4,1,0,0,0,0,3.1,
+2,7,3,1982-06-06,27-128,LAL,PHI,-33,0,3:00,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,0,0,-1.0,

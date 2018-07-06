@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,25,1,1987-04-23,27-343,CHI,BOS,-4,1,37:00,8,13,.615,0,0,,3,3,1.000,3,2,5,2,0,0,2,4,19,13.6,
+1,26,2,1987-04-26,27-346,CHI,BOS,-9,1,6:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,3,0,-0.9,
+2,27,3,1987-04-28,27-348,CHI,BOS,-11,1,36:00,5,9,.556,0,0,,2,5,.400,0,2,2,0,0,0,0,6,12,4.7,

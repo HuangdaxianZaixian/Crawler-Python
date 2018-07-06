@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,29,1,2013-04-20,31-266,LAC,MEM,21,0,1:48,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2
+1,30,4,2013-04-27,31-273,LAC,MEM,-21,0,3:08,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,-2
+2,31,6,2013-05-03,31-279,LAC,MEM,-13,0,14:34,1,2,.500,0,1,.000,2,2,1.000,0,1,1,2,1,0,0,0,4,5.7,-1

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1989-11-29,26-250,PHI,CLE,30,0,6:00,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,1,0,-3.5,
+1,2,2,1989-12-01,26-252,PHI,WSB,-17,0,8:00,0,1,.000,0,0,,0,0,,0,0,0,1,0,1,1,0,0,-0.3,
+2,3,3,1989-12-05,26-256,PHI,NYK,-7,0,4:00,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,1,0,1.3,

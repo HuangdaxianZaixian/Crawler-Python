@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1957-10-23,25-359,DET,BOS,-11,,,0,,,,,,0,0,,,,0,0,,,,0,0,,
+1,2,2,1957-10-26,25-362,DET,PHW,-12,,,0,,,,,,0,0,,,,0,0,,,,0,0,,
+2,3,3,1957-10-30,26-001,DET,MNL,19,,,1,,,,,,0,0,,,,0,0,,,,1,2,,
+3,4,4,1957-11-05,26-007,DET,BOS,-6,,,1,,,,,,0,0,,,,0,0,,,,0,2,,

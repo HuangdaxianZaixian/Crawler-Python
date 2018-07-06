@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,48,1,1989-04-28,32-163,DEN,PHO,-1,1,15:00,1,4,.250,0,0,,0,0,,2,4,6,1,1,0,0,5,2,1.9,
+1,49,2,1989-04-30,32-165,DEN,PHO,-18,1,12:00,2,3,.667,0,0,,0,0,,0,2,2,0,0,0,0,2,4,2.5,
+2,50,3,1989-05-02,32-167,DEN,PHO,-9,1,17:00,3,5,.600,0,0,,0,0,,2,3,5,1,0,2,0,3,6,6.9,

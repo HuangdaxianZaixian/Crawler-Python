@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,20,1,1981-10-30,26-163,CHI,IND,-2,0,11:00,1,1,1.000,0,0,,0,0,,0,0,0,0,,0,,0,2,,
+1,21,2,1981-10-31,26-164,CHI,DET,-13,0,6:00,0,1,.000,0,0,,2,2,1.000,0,0,0,0,,,,0,2,,
+2,22,3,1981-11-04,26-168,CHI,BOS,-22,0,12:00,2,7,.286,0,0,,2,2,1.000,,,3,0,,,,1,6,,

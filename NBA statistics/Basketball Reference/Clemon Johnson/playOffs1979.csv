@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1979-04-10,22-210,POR,PHO,-4,,8:00,0,2,.000,,,,2,2,1.000,,,0,0,1,2,2,1,2,,
+1,2,2,1979-04-13,22-213,POR,PHO,4,,20:00,1,4,.250,,,,2,5,.400,,,7,2,1,1,1,2,4,,
+2,3,3,1979-04-15,22-215,POR,PHO,-10,,19:00,3,5,.600,,,,2,4,.500,,,10,0,0,1,4,2,8,,

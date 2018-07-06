@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,89,1,1997-04-25,32-265,SEA,PHO,-5,0,20:00,0,0,,0,0,,0,0,,0,2,2,0,1,0,1,4,0,-1.0,
+1,90,2,1997-04-27,32-267,SEA,PHO,44,0,15:00,0,2,.000,0,2,.000,0,0,,1,2,3,2,0,0,1,5,0,-1.7,
+2,91,3,1997-04-29,32-269,SEA,PHO,-7,0,6:00,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,2,0,-0.1,

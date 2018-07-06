@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,346,1,2010-10-29,28-344,TOR,CLE,20,0,3:05,0,0,,0,0,,0,0,,0,1,1,1,1,0,0,0,0,2.0,0
+1,347,2,2010-11-06,28-352,TOR,POR,-13,0,3:09,0,0,,0,0,,4,4,1.000,0,0,0,0,0,0,0,2,4,3.2,+10
+2,348,3,2010-11-16,28-362,TOR,WAS,-15,0,15:31,0,2,.000,0,0,,2,4,.500,0,0,0,2,0,0,2,2,2,-1.6,-1

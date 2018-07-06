@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,29,1,1977-05-05,27-311,HOU,PHI,-11,,1:00,0,0,,,,,0,0,,,,1,0,,,,0,0,,
+1,30,2,1977-05-13,27-319,HOU,PHI,-12,,1:00,0,0,,,,,0,0,,0,0,0,0,,,,0,0,,
+2,31,3,1977-05-15,27-321,HOU,PHI,3,,5:00,0,1,.000,,,,0,0,,,,1,0,,,,1,0,,

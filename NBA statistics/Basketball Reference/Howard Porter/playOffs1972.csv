@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1972-03-28,23-210,CHI,LAL,-15,,,1,,,,,,0,0,,,,,,,,,,2,,
+1,2,2,1972-03-30,23-212,CHI,LAL,-7,,,2,,,,,,1,1,1.000,,,,,,,,,5,,
+2,3,3,1972-04-02,23-215,CHI,LAL,-7,,,4,,,,,,0,0,,,,,,,,,,8,,
+3,4,4,1972-04-04,23-217,CHI,LAL,-11,,,2,,,,,,0,0,,,,,,,,,,4,,

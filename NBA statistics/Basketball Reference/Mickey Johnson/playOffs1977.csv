@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,4,1,1977-04-12,24-224,CHI,POR,-13,1,38:00,8,25,.320,,,,3,3,1.000,2,8,10,1,2,0,,6,19,,
+1,5,2,1977-04-15,24-227,CHI,POR,3,1,43:00,13,23,.565,,,,3,4,.750,6,9,15,5,2,2,,4,29,,
+2,6,3,1977-04-17,24-229,CHI,POR,-8,1,43:00,13,24,.542,,,,8,9,.889,6,8,14,1,1,0,,4,34,,

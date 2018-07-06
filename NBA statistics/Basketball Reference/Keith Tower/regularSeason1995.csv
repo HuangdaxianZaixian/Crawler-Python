@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,12,1,1994-11-05,24-174,ORL,PHI,15,0,3:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,
+1,13,2,1994-11-12,24-181,ORL,PHI,13,0,2:00,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,
+2,14,3,1994-11-15,24-184,ORL,WSB,20,0,2:00,0,2,.000,0,0,,0,0,,1,1,2,0,0,0,1,0,0,-1.4,

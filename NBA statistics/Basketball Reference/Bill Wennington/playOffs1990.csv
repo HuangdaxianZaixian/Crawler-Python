@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,17,1,1990-04-26,27-000,DAL,POR,-7,0,6:00,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,
+1,18,2,1990-04-28,27-002,DAL,POR,-7,0,12:00,0,3,.000,0,0,,0,0,,0,2,2,1,0,0,1,3,0,-3.0,
+2,19,3,1990-05-01,27-005,DAL,POR,-14,0,7:00,0,1,.000,0,0,,0,0,,0,1,1,0,0,1,1,1,0,-1.1,

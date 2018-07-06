@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1968-11-01,25-125,CIN,MIL,18,,,1,,,,,,0,0,,,,,,,,,,2,,
+1,2,2,1968-11-06,25-130,CIN,CHI,11,,,0,,,,,,0,0,,,,,,,,,,0,,
+2,3,3,1968-11-15,25-139,CIN,BOS,-11,,,0,,,,,,0,0,,,,,,,,,,0,,
+3,4,4,1968-11-30,25-154,CIN,ATL,-17,,,1,,,,,,0,0,,,,,,,,,,2,,

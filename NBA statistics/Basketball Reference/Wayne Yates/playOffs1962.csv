@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1962-03-24,24-137,LAL,DET,24,,,1,2,.500,,,,0,0,,,,1,,,,,0,2,,
+1,2,2,1962-04-03,24-147,LAL,DET,6,,,1,,,,,,1,2,.500,,,,,,,,2,3,,
+2,3,3,1962-04-07,24-151,LAL,BOS,-14,,3:00,0,3,.000,,,,0,0,,,,2,0,,,,1,0,,
+3,4,4,1962-04-11,24-155,LAL,BOS,-12,,2:00,1,2,.500,,,,0,0,,,,2,0,,,,0,2,,

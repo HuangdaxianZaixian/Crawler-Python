@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1985-04-18,23-009,NJN,DET,-20,0,13:00,2,4,.500,0,0,,0,0,,2,2,4,1,0,0,0,2,4,3.9,
+1,2,2,1985-04-21,23-012,NJN,DET,-10,0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,
+2,3,3,1985-04-24,23-015,NJN,DET,-1,0,6:00,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,4,0,-1.6,

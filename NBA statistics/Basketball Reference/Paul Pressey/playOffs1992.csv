@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,73,1,1992-04-24,33-122,SAS,PHO,-6,0,5:00,1,1,1.000,0,0,,0,0,,0,1,1,0,1,0,4,2,2,-1.8,
+1,74,2,1992-04-26,33-124,SAS,PHO,-12,1,12:00,0,3,.000,0,0,,0,0,,0,0,0,0,1,1,0,1,0,-0.8,
+2,75,3,1992-04-29,33-127,SAS,PHO,-9,1,29:00,5,14,.357,1,2,.500,0,0,,1,1,2,3,1,0,1,6,11,3.9,

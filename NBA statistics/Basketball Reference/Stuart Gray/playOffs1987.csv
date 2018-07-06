@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1987-04-24,23-332,IND,ATL,-16,0,7:00,0,1,.000,0,0,,0,2,.000,2,2,4,0,0,0,0,1,0,0.1,
+1,2,2,1987-04-26,23-334,IND,ATL,-1,0,5:00,0,0,,0,0,,2,2,1.000,0,3,3,0,0,0,0,1,2,2.5,
+2,3,3,1987-04-29,23-337,IND,ATL,9,0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,

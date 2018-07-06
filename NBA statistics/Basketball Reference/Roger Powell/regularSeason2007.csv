@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2006-11-14,23-303,UTA,LAC,22,0,1:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+1,2,2,2006-11-18,23-307,UTA,PHO,3,0,7:11,0,1,.000,0,1,.000,2,2,1.000,2,0,2,0,0,0,2,2,2,-0.1,-9
+2,3,3,2006-11-20,23-309,UTA,TOR,5,0,4:46,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,1,0,0,-1.7,-2

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2009-04-25,24-076,ATL,MIA,-29,0,1:51,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,1,2,0.6,+2
+1,2,2,2009-04-29,24-080,ATL,MIA,15,0,1:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2,3,3,2009-05-07,24-088,ATL,CLE,-20,0,15:32,4,11,.364,3,5,.600,1,1,1.000,0,2,2,2,1,0,0,3,12,7.7,+12

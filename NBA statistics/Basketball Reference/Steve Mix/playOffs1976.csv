@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1976-04-15,28-107,PHI,BUF,-6,,42:00,6,,,,,,0,0,,,,10,2,,,,6,12,,
+1,2,2,1976-04-16,28-108,PHI,BUF,25,,44:00,6,,,,,,2,2,1.000,,,3,5,,,,,14,,
+2,3,3,1976-04-18,28-110,PHI,BUF,-1,,48:00,6,,,,,,6,8,.750,,,5,5,,,,,18,,

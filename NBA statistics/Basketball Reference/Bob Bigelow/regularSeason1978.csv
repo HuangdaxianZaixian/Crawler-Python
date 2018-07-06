@@ -1,0 +1,6 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,61,1,1977-11-01,23-310,KCK,MIL,-20,,,1,,,,,,0,0,,,,,,,,,,2,,
+1,62,2,1978-02-26,24-062,BOS,NJN,2,,,0,,,,,,0,0,,,,,,,,,,0,,
+2,63,3,1978-02-28,24-064,BOS,ATL,-32,,,1,,,,,,0,0,,,,,,,,,,2,,
+3,64,4,1978-03-03,24-067,BOS,NOJ,3,,,0,,,,,,0,0,,,,,,,,,,0,,
+4,65,5,1978-03-05,24-069,BOS,NYK,18,,,2,,,,,,0,0,,,,,,,,,,4,,

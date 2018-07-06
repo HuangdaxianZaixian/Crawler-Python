@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,245,1,1970-10-14,26-107,SEA,DET,-6,,,15,,,,,,7,10,.700,,,,,,,,,37,,
+1,246,2,1970-10-17,26-110,SEA,BOS,12,,,16,,,,,,4,4,1.000,,,,,,,,,36,,
+2,247,3,1970-10-21,26-114,SEA,PHO,4,,,8,,,,,,9,11,.818,,,,,,,,,25,,
+3,248,4,1970-10-23,26-116,SEA,POR,30,,,8,,,,,,5,5,1.000,,,,,,,,,21,,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,51,1,1992-04-24,29-273,LAC,UTA,-18,0,7:00,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,2,0,0,-2.7,
+1,52,2,1992-04-26,29-275,LAC,UTA,-11,0,3:00,2,3,.667,0,1,.000,0,0,,0,0,0,0,0,0,0,0,4,2.7,
+2,53,3,1992-05-04,29-283,LAC,UTA,-9,0,1:00,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,

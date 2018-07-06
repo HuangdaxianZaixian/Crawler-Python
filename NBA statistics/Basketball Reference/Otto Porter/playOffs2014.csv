@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,8,2014-05-09,20-340,WAS,IND,-22,0,1:32,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4
+1,2,10,2014-05-13,20-344,WAS,IND,23,0,3:53,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-5
+2,3,11,2014-05-15,20-346,WAS,IND,-13,0,0:39,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,2,1,1990-04-26,24-164,BOS,NYK,11,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,
+1,3,2,1990-04-28,24-166,BOS,NYK,29,0,5:00,2,4,.500,0,0,,0,0,,0,0,0,2,0,0,1,1,4,2.0,
+2,4,3,1990-05-04,24-172,BOS,NYK,-27,0,2:00,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,

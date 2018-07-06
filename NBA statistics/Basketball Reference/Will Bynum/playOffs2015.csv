@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,5,4,2015-04-26,32-112,WAS,TOR,31,0,4:12,0,1,.000,0,0,,0,0,,0,0,0,2,1,0,0,0,0,1.7,-1
+1,6,7,2015-05-09,32-125,WAS,ATL,2,0,12:58,2,6,.333,1,2,.500,4,5,.800,0,0,0,1,0,0,1,3,9,3.7,0
+2,7,8,2015-05-11,32-127,WAS,ATL,-5,0,14:19,5,7,.714,0,0,,0,0,,2,1,3,0,1,1,4,3,10,5.3,-6

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,40,1,1966-03-24,28-297,BAL,STL,-2,,20:00,3,5,.600,,,,2,2,1.000,,,6,1,,,,5,8,,
+1,41,2,1966-03-27,28-300,BAL,STL,-5,,48:00,7,13,.538,,,,4,6,.667,,,17,2,,,,3,18,,
+2,42,3,1966-03-30,28-303,BAL,STL,-9,,14:00,1,2,.500,,,,3,5,.600,,,2,0,,,,2,5,,

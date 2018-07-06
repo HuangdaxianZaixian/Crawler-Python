@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,10,2018-02-05,26-175,DET,POR,20,0,2:33,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,-3
+1,2,24,2018-03-09,26-207,DET,CHI,16,0,0:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2,3,40,2018-04-11,26-240,DET,CHI,32,0,3:09,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2

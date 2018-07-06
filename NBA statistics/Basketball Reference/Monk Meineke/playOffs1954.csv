@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,9,1,1954-03-16,23-137,FTW,ROC,-7,,,,,,,,,1,2,.500,,,,,,,,1,1,,
+1,10,2,1954-03-18,23-139,FTW,MNL,-5,,,,,,,,,1,2,.500,,,,,,,,6,1,,
+2,11,3,1954-03-20,23-141,FTW,MNL,-5,,,4,,,,,,4,6,.667,,,,,,,,2,12,,
+3,12,4,1954-03-21,23-142,FTW,ROC,-18,,,2,,,,,,1,1,1.000,,,,,,,,2,5,,

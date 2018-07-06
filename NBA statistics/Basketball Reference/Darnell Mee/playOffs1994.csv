@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1994-04-28,23-076,DEN,SEA,-24,0,18:00,2,5,.400,1,4,.250,0,0,,0,1,1,2,1,0,1,1,5,3.6,
+1,2,2,1994-05-02,23-080,DEN,SEA,17,0,8:00,1,1,1.000,0,0,,0,0,,0,1,1,0,2,0,2,2,2,1.2,
+2,3,3,1994-05-10,23-088,DEN,UTA,-9,0,4:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,

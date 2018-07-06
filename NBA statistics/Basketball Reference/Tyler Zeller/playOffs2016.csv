@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,5,2,2016-04-19,26-093,BOS,ATL,-17,0,14:28,2,7,.286,0,0,,0,0,,2,3,5,2,0,1,2,0,4,2.3,0
+1,6,5,2016-04-26,26-100,BOS,ATL,-27,0,12:00,1,2,.500,0,0,,4,6,.667,1,4,5,0,0,1,0,0,6,6.8,0
+2,7,6,2016-04-28,26-102,BOS,ATL,-12,0,11:34,4,6,.667,0,0,,0,0,,1,4,5,0,0,0,0,1,8,6.9,+12

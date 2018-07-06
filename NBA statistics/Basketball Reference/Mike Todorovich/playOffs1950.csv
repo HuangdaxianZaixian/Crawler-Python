@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1950-03-21,26-283,TRI,AND,-12,,,3,,,,,,5,8,.625,,,,,,,,,11,,
+1,2,2,1950-03-23,26-285,TRI,AND,1,,,1,,,,,,7,,,,,,,,,,,9,,
+2,3,3,1950-03-24,26-286,TRI,AND,-23,,,2,,,,,,7,,,,,,,,,,5,11,,

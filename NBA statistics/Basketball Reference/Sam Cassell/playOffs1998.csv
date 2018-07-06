@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,53,1,1998-04-24,28-157,NJN,CHI,-3,1,17:00,2,6,.333,0,0,,0,0,,1,0,1,3,0,0,1,5,4,0.4,
+1,54,2,1998-04-26,28-159,NJN,CHI,-5,0,6:00,0,2,.000,0,0,,0,0,,0,2,2,2,0,0,1,2,0,-1.2,
+2,55,3,1998-04-29,28-162,NJN,CHI,-15,0,3:00,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,0,0,2,2.4,

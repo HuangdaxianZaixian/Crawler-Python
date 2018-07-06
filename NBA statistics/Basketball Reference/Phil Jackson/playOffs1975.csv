@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,57,1,1975-04-08,29-203,NYK,HOU,-15,,34:00,4,9,.444,,,,1,2,.500,,,13,1,,,,5,9,,
+1,58,2,1975-04-10,29-205,NYK,HOU,10,,20:00,4,7,.571,,,,4,4,1.000,,,10,1,,,,5,12,,
+2,59,3,1975-04-12,29-207,NYK,HOU,-32,,24:00,2,5,.400,,,,2,2,1.000,,,2,0,,,,5,6,,

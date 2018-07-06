@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,20,1,1986-10-31,26-195,DET,MIL,-16,0,3:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,
+1,21,2,1986-11-05,26-200,DET,WSB,24,0,2:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,
+2,22,3,1986-11-08,26-203,DET,MIL,-14,0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,

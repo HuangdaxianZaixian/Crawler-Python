@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,21,1,1960-03-11,28-091,PHW,SYR,23,,,0,2,.000,,,,0,0,,,,3,1,,,,0,0,,
+1,22,2,1960-03-14,28-094,PHW,SYR,20,,,1,3,.333,,,,0,0,,,,0,1,,,,0,2,,
+2,23,3,1960-03-19,28-099,PHW,BOS,-30,,10:00,3,4,.750,,,,0,0,,,,2,1,,,,1,6,,
+3,24,4,1960-03-22,28-102,PHW,BOS,21,,2:00,0,0,,,,,0,1,.000,,,0,0,,,,0,0,,

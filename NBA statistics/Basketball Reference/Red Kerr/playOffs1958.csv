@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,25,1,1958-03-15,25-241,SYR,PHW,4,,,7,,,,,,4,6,.667,,,23,3,,,,1,18,,
+1,26,2,1958-03-16,25-242,SYR,PHW,-2,,,5,,,,,,4,5,.800,,,20,0,,,,1,14,,
+2,27,3,1958-03-18,25-244,SYR,PHW,-13,,39:00,6,18,.333,,,,6,7,.857,,,19,0,,,,3,18,,

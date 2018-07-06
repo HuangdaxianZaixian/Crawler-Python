@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,10,1,1995-04-27,25-286,UTA,HOU,2,0,8:00,0,0,,0,0,,1,2,.500,0,0,0,2,0,0,0,0,1,2.0,
+1,11,2,1995-04-29,25-288,UTA,HOU,-14,0,10:00,2,2,1.000,0,0,,2,3,.667,0,0,0,3,1,0,0,2,6,7.3,
+2,12,3,1995-05-05,25-294,UTA,HOU,-17,0,6:00,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,

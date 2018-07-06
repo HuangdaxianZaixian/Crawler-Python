@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,75,1,2006-04-26,38-126,MIL,DET,-11,0,1:30,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3
+1,76,2,2006-04-29,38-129,MIL,DET,20,0,2:53,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-1.4,-4
+2,77,3,2006-05-03,38-133,MIL,DET,-29,0,6:30,0,0,,0,0,,2,2,1.000,0,2,2,0,1,0,0,1,2,3.2,-3

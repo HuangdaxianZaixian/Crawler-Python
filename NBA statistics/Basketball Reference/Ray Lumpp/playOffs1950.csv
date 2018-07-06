@@ -1,0 +1,6 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,7,1,1950-03-21,26-253,NYK,WSC,3,,,2,,,,,,,,,,,,,,,,3,4,,
+1,8,2,1950-03-22,26-254,NYK,WSC,20,,,6,,,,,,1,1,1.000,,,,,,,,3,13,,
+2,9,3,1950-03-26,26-258,NYK,SYR,-8,,,1,,,,,,,,,,,,,,,,,2,,
+3,10,4,1950-03-30,26-262,NYK,SYR,4,,,,,,,,,,,,,,,,,,,1,,,
+4,11,5,1950-04-02,26-265,NYK,SYR,-11,,,1,,,,,,1,2,.500,,,,,,,,2,3,,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,36,1,1991-02-26,24-128,MIL,MIA,13,0,3:00,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,
+1,37,2,1991-03-03,24-133,MIL,ATL,-9,0,1:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,
+2,38,3,1991-03-05,24-135,MIL,CHI,-18,0,2:00,2,2,1.000,0,0,,2,2,1.000,0,0,0,1,0,0,0,0,6,6.1,

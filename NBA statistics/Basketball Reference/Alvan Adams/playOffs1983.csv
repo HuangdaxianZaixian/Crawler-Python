@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,56,1,1983-04-19,28-274,PHO,DEN,13,1,28:00,4,7,.571,0,0,,4,5,.800,0,5,5,2,1,2,1,5,12,10.6,
+1,57,2,1983-04-21,28-276,PHO,DEN,-14,1,23:00,4,12,.333,0,0,,1,2,.500,3,4,7,3,0,1,1,5,9,4.9,
+2,58,3,1983-04-24,28-279,PHO,DEN,-5,1,33:00,7,13,.538,0,0,,0,0,,0,6,6,9,1,2,3,5,14,13.2,

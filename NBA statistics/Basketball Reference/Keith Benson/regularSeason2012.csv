@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2012-03-24,23-224,GSW,SAC,3,0,3:59,0,1,.000,0,0,,0,0,,2,0,2,0,0,0,0,0,0,0.7,-2
+1,2,2,2012-03-25,23-225,GSW,POR,-3,0,4:02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+8
+2,3,3,2012-03-28,23-228,GSW,NOH,-15,0,1:07,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+1

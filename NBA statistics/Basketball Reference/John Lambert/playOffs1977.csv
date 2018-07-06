@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,7,1,1977-04-13,24-089,CLE,WSB,-9,,7:00,0,1,.000,,,,0,0,,,,1,0,,,,1,0,,
+1,8,2,1977-04-15,24-091,CLE,WSB,8,,7:00,1,1,1.000,,,,0,0,,0,0,0,0,,,,2,2,,
+2,9,3,1977-04-17,24-093,CLE,WSB,-6,,5:00,1,2,.500,,,,0,0,,,,2,0,,,,1,2,,

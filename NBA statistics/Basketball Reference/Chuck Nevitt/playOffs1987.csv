@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,9,1,1987-04-26,27-317,DET,WSB,43,0,8:00,0,3,.000,0,0,,2,2,1.000,0,5,5,0,0,2,3,1,2,-0.6,
+1,10,2,1987-05-05,27-326,DET,ATL,-13,0,1:00,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,
+2,11,3,1987-05-23,27-344,DET,BOS,18,0,1:00,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,0,0,2,2.4,

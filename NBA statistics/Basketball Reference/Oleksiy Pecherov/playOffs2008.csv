@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,2008-04-21,22-135,WAS,CLE,-30,0,3:13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6
+1,2,2,2008-04-24,22-138,WAS,CLE,36,0,2:58,0,1,.000,0,0,,2,2,1.000,0,0,0,0,1,0,0,0,2,2.3,0
+2,3,3,2008-05-02,22-146,WAS,CLE,-17,0,1:59,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,0,0,1.0,+7

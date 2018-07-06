@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,72,1,1982-04-10,24-340,CLE,NYK,-3,0,,2,,,1,,,0,0,,,,,,,,,,5,,
+1,73,2,1982-04-13,24-343,CLE,ATL,-8,0,,6,11,.545,0,,,3,4,.750,,,,,,,,5,15,,
+2,74,3,1982-04-15,24-345,CLE,DET,-10,0,,2,,,0,,,1,2,.500,,,,,,,,,5,,
+3,75,4,1982-04-18,24-348,CLE,DET,-3,0,28:00,9,15,.600,0,,,2,2,1.000,,,2,0,,,,6,20,,

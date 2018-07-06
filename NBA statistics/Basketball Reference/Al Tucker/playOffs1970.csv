@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1970-03-29,27-033,BAL,NYK,14,,,0,,,,,,0,0,,,,,,,,,,0,,
+1,2,2,1970-04-02,27-037,BAL,NYK,-21,,,0,,,,,,0,0,,,,,,,,,,0,,
+2,3,3,1970-04-05,27-040,BAL,NYK,9,,,0,,,,,,0,0,,,,,,,,,,0,,
+3,4,4,1970-04-06,27-041,BAL,NYK,-13,,,2,,,,,,0,0,,,,,,,,,,4,,

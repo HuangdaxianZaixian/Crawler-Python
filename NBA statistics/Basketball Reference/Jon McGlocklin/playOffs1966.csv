@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1966-03-23,22-286,CIN,BOS,4,,,1,4,.250,,,,0,0,,,,1,0,,,,1,2,,
+1,2,2,1966-03-27,22-290,CIN,BOS,6,,,5,6,.833,,,,0,0,,,,2,0,,,,,10,,
+2,3,3,1966-03-30,22-293,CIN,BOS,-17,,,5,12,.417,,,,1,1,1.000,,,2,3,,,,,11,,
+3,4,4,1966-04-01,22-295,CIN,BOS,-9,,,3,7,.429,,,,1,1,1.000,,,3,1,,,,,7,,

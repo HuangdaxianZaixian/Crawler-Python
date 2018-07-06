@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,4,1,1998-04-23,25-029,CLE,IND,-29,0,26:00,1,4,.250,0,1,.000,2,3,.667,0,3,3,4,1,0,1,4,4,3.3,
+1,5,2,1998-04-27,25-033,CLE,IND,9,0,1:00,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,
+2,6,3,1998-04-30,25-036,CLE,IND,-6,0,4:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,

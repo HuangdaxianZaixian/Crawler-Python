@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1995-04-27,24-295,LAL,SEA,-25,0,2:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,
+1,2,2,1995-05-06,24-304,LAL,SAS,-16,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,
+2,3,3,1995-05-18,24-316,LAL,SAS,-12,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,

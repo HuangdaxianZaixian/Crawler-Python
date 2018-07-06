@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,8,1,1984-02-25,25-260,SAS,MIL,-11,0,3:00,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,2,0,-0.1,
+1,9,2,1984-02-28,25-263,SAS,DAL,-12,0,5:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,
+2,10,3,1984-03-01,25-265,SAS,POR,-23,0,6:00,1,1,1.000,0,0,,0,2,.000,3,1,4,0,0,0,1,2,2,1.5,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1982-04-20,25-102,DEN,PHO,16,0,16:00,2,9,.222,0,1,.000,2,2,1.000,,,9,1,0,0,1,1,6,,
+1,2,2,1982-04-23,25-105,DEN,PHO,-16,0,18:00,3,5,.600,0,0,,1,2,.500,,,2,1,1,0,2,1,7,,
+2,3,3,1982-04-24,25-106,DEN,PHO,-5,0,11:00,3,5,.600,0,0,,0,0,,,,2,0,0,0,1,2,6,,

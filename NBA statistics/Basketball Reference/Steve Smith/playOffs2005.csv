@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,88,1,2005-04-28,36-028,MIA,NJN,3,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3
+1,89,2,2005-06-04,36-065,MIA,DET,-25,0,6:00,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+3
+2,90,3,2005-06-06,36-067,MIA,DET,-6,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1994-04-29,24-158,GSW,PHO,-7,0,12:00,1,2,.500,0,0,,0,2,.000,1,1,2,0,0,0,0,0,2,1.2,
+1,2,2,1994-05-01,24-160,GSW,PHO,-6,1,22:00,3,3,1.000,0,0,,2,2,1.000,1,1,2,1,0,2,0,4,8,8.6,
+2,3,3,1994-05-04,24-163,GSW,PHO,-7,1,12:00,2,3,.667,0,0,,1,1,1.000,0,1,1,2,1,0,0,5,5,4.4,

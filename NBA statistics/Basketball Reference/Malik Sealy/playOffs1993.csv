@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1993-04-30,23-088,IND,NYK,-3,0,9:00,0,4,.000,0,1,.000,2,2,1.000,1,0,1,0,0,0,0,1,2,-0.5,
+1,2,2,1993-05-02,23-090,IND,NYK,-10,0,2:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,
+2,3,3,1993-05-04,23-092,IND,NYK,23,0,7:00,0,0,,0,0,,0,0,,1,0,1,0,0,0,1,0,0,-0.3,

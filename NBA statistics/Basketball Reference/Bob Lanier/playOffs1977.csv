@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,20,1,1977-04-12,28-214,DET,GSW,5,,42:00,12,23,.522,,,,4,4,1.000,,,17,3,,3,,2,28,,
+1,21,2,1977-04-14,28-216,DET,GSW,-30,,33:00,9,13,.692,,,,5,6,.833,,,18,2,,3,,4,23,,
+2,22,3,1977-04-17,28-219,DET,GSW,-8,,43:00,13,18,.722,,,,7,9,.778,,,15,1,,,,4,33,,

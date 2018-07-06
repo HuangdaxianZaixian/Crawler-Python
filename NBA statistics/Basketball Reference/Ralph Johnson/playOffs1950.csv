@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1950-03-23,28-107,FTW,ROC,6,,,4,,,,,,5,7,.714,,,,,,,,,13,,
+1,2,2,1950-03-24,28-108,FTW,ROC,1,,,,,,,,,2,,,,,,,,,,1,2,,
+2,3,3,1950-03-27,28-111,FTW,MNL,-14,,,,,,,,,3,4,.750,,,,,,,,4,3,,
+3,4,4,1950-03-28,28-112,FTW,MNL,-7,,,4,,,,,,2,3,.667,,,,,,,,3,10,,

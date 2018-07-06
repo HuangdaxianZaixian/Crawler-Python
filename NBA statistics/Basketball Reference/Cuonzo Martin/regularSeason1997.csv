@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,5,1,1997-02-28,25-158,MIL,IND,-19,0,5:00,0,2,.000,0,2,.000,0,0,,1,0,1,0,0,0,1,0,0,-1.7,
+1,6,2,1997-03-01,25-159,MIL,SAC,-11,0,2:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,
+2,7,3,1997-03-03,25-161,MIL,CHI,-18,0,6:00,0,4,.000,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-2.5,

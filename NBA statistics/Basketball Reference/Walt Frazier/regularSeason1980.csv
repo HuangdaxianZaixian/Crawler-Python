@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,823,1,1979-10-13,34-198,CLE,BOS,-22,0,3:00,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,
+1,824,2,1979-10-16,34-201,CLE,DET,20,,,3,,,0,,,0,0,,,,,,,,,,6,,
+2,825,3,1979-10-17,34-202,CLE,BOS,-19,,,1,,,0,,,2,2,1.000,,,,,,,,,4,,

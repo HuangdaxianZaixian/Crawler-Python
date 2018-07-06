@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,502,1,2009-01-08,26-034,NYK,DAL,-5,0,2:38,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,1,2,1.9,-9
+1,503,2,2009-03-28,26-113,NYK,CHA,-11,0,2:20,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,3,0,-0.9,0
+2,504,3,2009-03-30,26-115,NYK,UTA,-8,0,6:48,1,1,1.000,0,0,,1,3,.333,0,1,1,0,0,0,2,1,3,-0.2,-5

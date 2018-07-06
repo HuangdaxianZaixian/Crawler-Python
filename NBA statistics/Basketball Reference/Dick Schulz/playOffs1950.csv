@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,23,1,1950-03-21,33-077,SHE,INO,-1,,,,,,,,,5,5,1.000,,,,,,,,,5,,
+1,24,2,1950-03-23,33-079,SHE,INO,10,,,1,,,,,,1,1,1.000,,,,,,,,,3,,
+2,25,3,1950-03-25,33-081,SHE,INO,-7,,,,,,,,,4,4,1.000,,,,,,,,5,4,,

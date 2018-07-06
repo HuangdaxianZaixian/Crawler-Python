@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,6,1,2017-04-15,24-263,TOR,MIL,-14,0,1:22,0,1,.000,0,0,,1,2,.500,2,1,3,0,0,0,0,0,1,1.6,+4
+1,7,3,2017-04-20,24-268,TOR,MIL,-27,0,3:46,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+3
+2,8,5,2017-04-24,24-272,TOR,MIL,25,0,1:55,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,+2

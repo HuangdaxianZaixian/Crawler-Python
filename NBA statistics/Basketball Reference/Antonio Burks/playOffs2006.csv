@@ -1,0 +1,3 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,2,1,2006-04-26,26-060,MEM,DAL,-15,0,7:55,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,+5
+1,3,2,2006-05-01,26-065,MEM,DAL,-26,0,4:38,1,1,1.000,0,0,,1,2,.500,0,1,1,1,1,0,0,1,3,3.9,+4

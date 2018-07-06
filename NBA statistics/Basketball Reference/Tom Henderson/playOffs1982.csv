@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,78,1,1982-04-21,30-085,HOU,SEA,-15,1,30:00,3,9,.333,0,0,,4,4,1.000,4,2,6,7,0,0,2,3,10,10.0,
+1,79,2,1982-04-23,30-087,HOU,SEA,21,1,28:00,1,4,.250,0,0,,0,0,,1,1,2,0,0,0,1,0,2,-0.4,
+2,80,3,1982-04-25,30-089,HOU,SEA,-21,1,10:00,1,3,.333,0,0,,0,0,,0,0,0,2,0,0,1,2,2,-0.1,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,62,1,1973-04-25,30-329,LAL,GSW,10,,4:00,1,1,1.000,,,,0,0,,,,0,1,,,,0,2,,
+1,63,2,1973-05-08,30-342,LAL,NYK,-5,0,14:00,0,5,.000,,,,6,8,.750,,,2,0,,,,0,6,,
+2,64,3,1973-05-10,30-344,LAL,NYK,-9,0,8:00,0,3,.000,,,,0,0,,,,2,0,,,,2,0,,

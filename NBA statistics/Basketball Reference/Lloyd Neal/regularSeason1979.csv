@@ -1,0 +1,5 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,432,1,1978-10-15,27-309,POR,CHI,-11,,,1,,,,,,0,0,,,,,,,,,,2,,
+1,433,2,1978-10-17,27-311,POR,KCK,3,,,0,,,,,,0,0,,,,,,,,,,0,,
+2,434,3,1978-10-18,27-312,POR,DEN,-12,,,1,,,,,,0,0,,,,,,,,,,2,,
+3,435,4,1978-10-20,27-314,POR,GSW,-3,,,2,,,,,,1,2,.500,,,,,,,,,5,,

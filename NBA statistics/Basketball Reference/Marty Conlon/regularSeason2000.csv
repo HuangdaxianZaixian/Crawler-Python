@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,377,1,1999-12-28,31-343,LAC,DEN,-23,0,3:00,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,1,2,2.0,
+1,378,2,1999-12-30,31-345,LAC,HOU,-22,0,4:00,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,
+2,379,3,2000-01-04,31-350,LAC,LAL,-24,0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,

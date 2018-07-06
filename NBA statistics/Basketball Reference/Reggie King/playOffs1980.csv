@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1980-04-02,23-048,KCK,PHO,-3,,,3,,,0,,,2,3,.667,,,,,,,,,8,,
+1,2,2,1980-04-04,23-050,KCK,PHO,10,,,1,,,0,,,0,0,,,,,,,,,,2,,
+2,3,3,1980-04-06,23-052,KCK,PHO,-15,,,6,,,0,,,3,6,.500,,,,,,,,,15,,

@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1996-04-16,26-205,WSB,ORL,-18,0,2:00,0,1,.000,0,0,,0,0,,1,0,1,0,1,0,0,0,0,1.0,
+1,2,2,1996-04-17,26-206,WSB,BOS,-15,0,1:00,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,
+2,3,3,1996-04-21,26-210,WSB,CHI,-10,0,1:00,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,

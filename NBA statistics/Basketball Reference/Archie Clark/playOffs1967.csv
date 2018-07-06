@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1967-03-21,25-249,LAL,SFW,-16,,,11,23,.478,,,,4,4,1.000,,,5,4,,,,4,26,,
+1,2,2,1967-03-23,25-251,LAL,SFW,-11,,,10,18,.556,,,,4,6,.667,,,5,5,,,,6,24,,
+2,3,3,1967-03-26,25-254,LAL,SFW,-7,,,11,21,.524,,,,5,7,.714,,,3,6,,,,1,27,,

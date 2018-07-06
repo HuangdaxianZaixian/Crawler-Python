@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,6,1,1976-04-13,26-340,MIL,DET,3,,42:00,4,10,.400,,,,8,10,.800,,,13,1,0,7,,5,16,,
+1,7,2,1976-04-15,26-342,MIL,DET,-3,,26:00,5,8,.625,,,,6,9,.667,,,3,0,2,3,,5,16,,
+2,8,3,1976-04-18,26-345,MIL,DET,-3,,36:00,6,9,.667,,,,0,2,.000,,,6,0,0,1,,4,12,,

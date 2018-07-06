@@ -1,0 +1,4 @@
+,pgl_basic,game,date,age,team,opp,gameResult,gs,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+0,1,1,1990-04-27,24-103,CHI,MIL,14,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,
+1,2,2,1990-05-03,24-109,CHI,MIL,24,0,1:00,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,
+2,3,3,1990-06-03,24-140,CHI,DET,-19,0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,
